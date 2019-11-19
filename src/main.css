@@ -1,0 +1,13 @@
+body { margin: 0; }
+
+.track-info {
+    background-color: #181818;
+    color: rgb(179, 179, 179);
+    padding: 5px;
+}
+
+.lyric-info {
+    background-color: #4d4d4d;
+    color: rgb(179, 179, 179);
+    padding: 5px;
+}
